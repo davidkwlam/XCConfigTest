@@ -6,4 +6,4 @@
 //  Copyright © 2017 davidkwlam. All rights reserved.
 //
 
-#include common.xcconfig
+#include "common.xcconfig"
